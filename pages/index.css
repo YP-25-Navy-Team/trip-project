@@ -1,5 +1,11 @@
 @import url(../vendor/normalize.css);
 
+/* CONNECT ROOT */
+@import url(../blocks/root/root.css);
+
+/* CONNECT PAGE */
+@import url(../blocks/page/page.css);
+
 /* CONNECT HEADER */
 @import url(../blocks/header/header.css);
 /* elements */
