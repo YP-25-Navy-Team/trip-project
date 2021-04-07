@@ -1,0 +1,7 @@
+.people {
+  display: flex;
+  flex-direction: column;
+  max-width: calc(100% - 160px);
+  margin: 0 auto;
+  padding: 160px 0 144px;
+}

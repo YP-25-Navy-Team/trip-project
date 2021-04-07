@@ -1,0 +1,9 @@
+.people__item {
+  max-width: 214px;
+  margin-right: 80px;
+  padding-top: 142px;
+}
+
+.people__item:last-of-type {
+  margin-right: 0;
+}

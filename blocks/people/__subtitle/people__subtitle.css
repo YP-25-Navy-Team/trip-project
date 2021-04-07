@@ -1,0 +1,10 @@
+.people__subtitle {
+  max-width: 472px;
+  margin: 0;
+  padding: 0;
+  color: #fecea9;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 15px;
+}
