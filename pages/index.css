@@ -1,5 +1,8 @@
 @import url(../vendor/normalize.css);
 
+/* CONNECT POSITION-CENTER */
+@import url(../blocks/position-center/position-center.css);
+
 /* CONNECT PLACES */
 @import url(../blocks/places/places.css);
 
