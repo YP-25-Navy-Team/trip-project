@@ -1,0 +1,7 @@
+.header__item {
+  margin-right: 40px;
+}
+
+.header__item:last-of-type {
+  margin: 0 0 auto;
+}
