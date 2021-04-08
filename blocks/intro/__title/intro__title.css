@@ -5,3 +5,10 @@
   font-weight: bold;
   line-height: 44px;
 }
+
+@media screen and (max-width: 767px) {
+  .intro__title {
+    text-align: center;
+    margin: 40px 0;
+  }
+}

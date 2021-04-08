@@ -4,3 +4,14 @@
   width: 82%;
   padding: 96px 0 151px 64px;
 }
+
+@media screen and (max-width: 767px) {
+  .intro {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding-left: 0;
+    max-width: 100%;
+  }
+}

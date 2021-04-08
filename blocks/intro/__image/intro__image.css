@@ -3,3 +3,10 @@
   max-height: 350px;
   object-fit: cover;
 }
+
+@media screen and (max-width: 767px) {
+  .intro__image {
+    min-width: 320px;
+    max-height: 320px;
+  }
+}

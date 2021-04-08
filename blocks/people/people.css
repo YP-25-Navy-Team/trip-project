@@ -1,7 +1,14 @@
 .people {
   display: flex;
   flex-direction: column;
-  max-width: calc(100% - 160px);
+  max-width: calc(100% - 128px);
   margin: 0 auto;
   padding: 160px 0 144px;
+}
+
+@media screen and (max-width: 767px) {
+  .people {
+    align-items: center;
+    max-width: 82%;
+  }
 }
