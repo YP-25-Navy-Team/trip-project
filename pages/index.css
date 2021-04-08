@@ -1,1 +1,4 @@
-@import url(../vendor/normalize.css);
+/* CONNECT FOOTER */
+@import url(../blocks/footer/footer.css);
+/* elements */
+@import url(../blocks/footer/__copyright/footer__copyright.css);
