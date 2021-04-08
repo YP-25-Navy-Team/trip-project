@@ -1,4 +1,9 @@
 .place__paragraph {
   margin: 0;
   padding: 0;
+  padding-bottom: 30px;
+}
+
+.place__paragraph:last-child {
+  padding-bottom: 0;
 }
