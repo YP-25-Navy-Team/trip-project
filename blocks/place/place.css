@@ -4,3 +4,11 @@
   grid-template-rows: 525px;
   background-color: #f2f2f2;
 }
+
+@media screen and (max-width: 767px) {
+  .place {
+    margin: 0 auto;
+    grid-template-columns: 100%;
+    grid-template-rows: 50% 50%;
+  }
+}
