@@ -1,4 +1,5 @@
-.people__subtitle {
+.people__subtitle { 
+  font-family: 'Roboto Condenced', Arial, sans-serif;
   max-width: 472px;
   margin: 0;
   padding: 0;
