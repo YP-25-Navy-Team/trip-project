@@ -30,6 +30,6 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(./roboto-condensed-v19-latin-700.woff2) format("woff2"),
-       url(./roboto-condensed-v19-latin-700.woff) format("woff");
+  src: url(./roboto-condensed-v19-latin_cyrillic-regular.woff2) format("woff2"),
+       url(./roboto-condensed-v19-latin_cyrillic-regular.woff) format("woff");
 }
