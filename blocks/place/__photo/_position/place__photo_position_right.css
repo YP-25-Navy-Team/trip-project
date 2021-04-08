@@ -1,0 +1,4 @@
+.place__photo_position_right {
+  grid-column: 2/3;
+  grid-row: 1;
+}
