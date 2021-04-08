@@ -48,3 +48,8 @@
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 /* modifier */
 @import url(../blocks/place/__photo/_position/place__photo_position_right.css);
+
+/* CONNECT FOOTER */
+@import url(../blocks/footer/footer.css);
+/* elements */
+@import url(../blocks/footer/__copyright/footer__copyright.css);
