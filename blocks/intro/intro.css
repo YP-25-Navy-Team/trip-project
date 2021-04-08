@@ -1,5 +1,6 @@
 .intro {
   display: flex;
-  justify-content: space-around;
-  padding: 96px 0 151px;
+  justify-content: space-between;
+  width: 82%;
+  padding: 96px 0 151px 64px;
 }
