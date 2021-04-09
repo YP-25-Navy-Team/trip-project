@@ -9,9 +9,3 @@
   font-weight: bold;
   line-height: 15px;
 }
-
-@media screen and (max-width: 727px) {
-  .people__subtitle {
-    align-self: flex-start;
-  }
-}
