@@ -14,4 +14,4 @@
 
 ## Ссылка на GitHub Pages:
 
-[Проектная работа "Куда я поеду"]()
+[Проектная работа "Куда я поеду"](https://yp-25-navy-team.github.io/trip-project/index.html)
