@@ -1,5 +1,5 @@
 .intro__subtitle {
-  font-family: 'Roboto Condensed', Arial, sans-serif;
+  font-family: "Roboto Condensed", Arial, sans-serif;
   margin: 0;
   padding: 0;
   color: #fecea9;
@@ -11,6 +11,6 @@
 
 @media screen and (max-width: 767px) {
   .intro__subtitle {
-    text-align: center;
+    text-align: left;
   }
 }

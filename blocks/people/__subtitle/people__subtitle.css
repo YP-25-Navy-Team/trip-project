@@ -1,5 +1,5 @@
-.people__subtitle { 
-  font-family: 'Roboto Condensed', Arial, sans-serif;
+.people__subtitle {
+  font-family: "Roboto Condensed", Arial, sans-serif;
   max-width: 472px;
   margin: 0;
   padding: 0;
@@ -8,4 +8,10 @@
   font-size: 12px;
   font-weight: bold;
   line-height: 15px;
+}
+
+@media screen and (max-width: 727px) {
+  .people__subtitle {
+    align-self: flex-start;
+  }
 }
