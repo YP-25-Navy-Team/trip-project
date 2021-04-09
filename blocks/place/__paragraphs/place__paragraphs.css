@@ -6,8 +6,8 @@
   .place__paragraphs {
     max-width: 70%;
   }
-
-  @media screen and (max-width: 425px) {
+}
+@media screen and (max-width: 425px) {
   .place__paragraphs {
     max-width: 95%;
   }
